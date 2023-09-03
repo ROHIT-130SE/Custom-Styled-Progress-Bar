@@ -26,7 +26,8 @@ To use this custom-styled progress bar in your web project:
 
 ## License
 
-This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **GNU General Public License v3.0**. See the [GNU General Public License v3.0
+](LICENSE) file for details.
 
 ## Acknowledgments
 
