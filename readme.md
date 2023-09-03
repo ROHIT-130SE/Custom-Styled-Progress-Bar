@@ -6,7 +6,7 @@ A custom-styled progress bar created using HTML and CSS to visually track course
 
 This project showcases how to create a unique and visually appealing progress bar with custom styles. The progress bar can be used to represent the completion status of a course or any tracking application. It includes both Webkit (Chrome, Safari, Edge) and Mozilla (Firefox) compatibility to ensure a consistent appearance across different web browsers.
 
-![Custom Styled Progress Bar](screenshot.png)
+![Custom Styled Progress Bar](Progress.png)
 
 ## Usage
 
